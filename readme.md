@@ -10,9 +10,9 @@
 
 - [Jupycard](#jupycard)
 - [Demo](#demo)
-    1. [Downloading the file directly](#downloading-the-file-directly)
-    2. [Creating a copy of the original file](#creating-a-copy-of-the-original-file)
-    3. [Forking this repository](#forking-this-repository)
+    - [Downloading the file directly](#downloading-the-file-directly)
+    - [Creating a copy of the original file](#creating-a-copy-of-the-original-file)
+    - [Forking this repository](#forking-this-repository)
 - [Contibution](#contribution)
 - [License](./license.md)
 
