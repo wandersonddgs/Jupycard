@@ -9,7 +9,7 @@
 <h2>Content</h2>
 
 - [Jupycard](#jupycard)
-- [Demo](#demo)
+- [Setting up](#setting-up)
     - [Downloading the file directly](#downloading-the-file-directly)
     - [Creating a copy of the original file](#creating-a-copy-of-the-original-file)
     - [Forking this repository](#forking-this-repository)
@@ -32,7 +32,7 @@ To use Jupycard, it's very simple. You can:
 
 <br />
 
-## Demo:
+## Setting up:
 
 ### Downloading the file directly:
 <br />
