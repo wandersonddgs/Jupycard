@@ -14,7 +14,7 @@
     - [Criando uma cópia do arquivo original](#criando-uma-cópia-do-arquivo-original)
     - [Dando um Fork nesse repositório](#dando-um-fork-nesse-repositório)
 - [Contibuição](#contribuição)
-- [Licença](/Jupycard/license.md)
+- [Licença](/license.md)
 
 ## Jupycard:
 
@@ -38,7 +38,7 @@ Para usar o Jupycard é muito simples. Você pode:
 
 Clique no botão verde *Code*:
 
-![Baixando o arquivo](/Jupycard/src/option1-step1-downloading-file.jpg) 
+![Baixando o arquivo](/src/option1-step1-downloading-file.jpg) 
 
 Então clique em *Download ZIP*. Você deve baixar um arquivo.
 
@@ -46,7 +46,7 @@ Então clique em *Download ZIP*. Você deve baixar um arquivo.
 
 Acesse o [Google Colaboratory](https://colab.research.google.com). Você vai parar nessa página:
 
-![Landing page do Google Colab](/Jupycard/src/option1-step2-google-colab.jpg)
+![Landing page do Google Colab](/src/option1-step2-google-colab.jpg)
 
 Lembre-se de entrar na sua conta do Google!
 
@@ -54,7 +54,7 @@ Lembre-se de entrar na sua conta do Google!
 
 Clique em *File*, então em *Upload Notebook*:
 
-![Upando o Jupycard](/Jupycard/src/option1-step3-uploading-jupycard.jpg)
+![Upando o Jupycard](/src/option1-step3-uploading-jupycard.jpg)
 
 Selecione o arquivo *.ipynb* desejado, e pronto!
 
@@ -66,13 +66,13 @@ Selecione o arquivo *.ipynb* desejado, e pronto!
 
 Vá para o arquivo. Você verá isso:
 
-![Abrindo o arquivo](/Jupycard/src/option2-step1-go-to-file.jpg)
+![Abrindo o arquivo](/src/option2-step1-go-to-file.jpg)
 
 <br />
 
 Clique em *File*, então escolha a opção que mais lhe agrada:
 
-![Opções de salvamento](/Jupycard/src/option2-step2-save-file.jpg)
+![Opções de salvamento](/src/option2-step2-save-file.jpg)
 
 Parabéns, você agora tem um flashcard pessoal só pra você!
 
@@ -84,19 +84,19 @@ Parabéns, você agora tem um flashcard pessoal só pra você!
 
 Clique no botão *Fork*, então em *Create a new fork*:
 
-![Botão de fork](/Jupycard/src/option3-step1-creating-a-fork.jpg)
+![Botão de fork](/src/option3-step1-creating-a-fork.jpg)
 
 <br />
 
 Dê um nome, uma descrição se você quiser, então clique em *Create fork*:
 
-![Nome e descrição do fork](/Jupycard/src/option3-step2-naming-the-fork.jpg)
+![Nome e descrição do fork](/src/option3-step2-naming-the-fork.jpg)
 
 <br />
 
 Acesse o [Google Colaboratoy](https://colab.research.google.com) e clique em *GitHub*:
 
-![Abrindo o arquivo com o repositório do GitHub](/Jupycard/src/option3-step3-github-to-colab.jpg)
+![Abrindo o arquivo com o repositório do GitHub](/src/option3-step3-github-to-colab.jpg)
 
 Clique em *Include private repos.*
 
@@ -104,7 +104,7 @@ Clique em *Include private repos.*
 
 Quando você fizer isso, aparecerá um pop-up pedindo autorização para acessar seu GitHub:
 
-![Autorização do GitHub](/Jupycard/src/option3-step4-authorization.jpg)
+![Autorização do GitHub](/src/option3-step4-authorization.jpg)
 
 Entre no GitHub e autorize o Google Colab.
 
@@ -112,7 +112,7 @@ Entre no GitHub e autorize o Google Colab.
 
 Dada a autorização, você verá isso:
 
-![Abrindo o fork no Google Colab](/Jupycard/src/option3-step5-opening-fork-in-colab.jpg)
+![Abrindo o fork no Google Colab](/src/option3-step5-opening-fork-in-colab.jpg)
 
 Selecione o repositório que você acabou de dar fork e pronto!
 
