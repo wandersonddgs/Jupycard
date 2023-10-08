@@ -4,7 +4,7 @@
 <h4>Está tendo problemas para memorizar alguma coisa? Jupycard é um flashcard no Jupyter Notebook, perfeito para memorização.</h4>
 </div>
 
-[Read in English](/project-jupycard/readme.md)
+[Read in English](/readme.md)
 
 <h2>Conteúdo:</h2>
 
