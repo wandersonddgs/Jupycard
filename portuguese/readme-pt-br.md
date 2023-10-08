@@ -9,8 +9,8 @@
 <h2>Conteúdo:</h2>
 
 - [Jupycard](#jupycard)
-- [Demo:](#demo)
-    - [Baixar o arquivo diretamemnte](#baixando-o-arquivo-diretamente)
+- [Como usar](#como-usar)
+    - [Baixando o arquivo diretamemnte](#baixando-o-arquivo-diretamente)
     - [Criando uma cópia do arquivo original](#criando-uma-cópia-do-arquivo-original)
     - [Dando um Fork nesse repositório](#dando-um-fork-nesse-repositório)
 - [Contibuição](#contribuição)
@@ -31,7 +31,7 @@ Para usar o Jupycard é muito simples. Você pode:
 <br />
 <br />
 
-## Demo:
+## Como usar:
 
 ### Baixando o arquivo diretamente:
 <br />
